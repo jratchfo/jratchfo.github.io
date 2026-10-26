@@ -1,4 +1,4 @@
 # Photos
 
-Put image files for the homepage in this folder, then replace the photo
-placeholders in `index.html` with `<img>` elements and captions.
+Put image files for the Photos page in this folder, then replace the photo
+placeholders in `photos.html` with `<img>` elements and captions.

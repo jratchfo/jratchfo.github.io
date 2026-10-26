@@ -85,6 +85,18 @@ h2 {
   max-width: 40ch;
 }
 
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.site-nav a[aria-current="page"] {
+  font-weight: 600;
+  text-decoration-thickness: 0.15em;
+}
+
 main section {
   background: var(--surface);
   border: 1px solid var(--border);
