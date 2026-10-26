@@ -103,6 +103,42 @@ li + li {
   margin-top: 0.4rem;
 }
 
+.link-list span {
+  color: var(--muted);
+}
+
+.photo-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+}
+
+.photo-placeholder {
+  margin: 0;
+}
+
+.photo-placeholder > div {
+  align-items: center;
+  background: #e9efed;
+  border: 1px dashed var(--border);
+  color: var(--muted);
+  display: flex;
+  justify-content: center;
+  min-height: 8rem;
+}
+
+figcaption {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-top: 0.35rem;
+}
+
+code {
+  background: #e9efed;
+  border-radius: 0.2rem;
+  padding: 0.1rem 0.25rem;
+}
+
 a {
   color: var(--primary);
   text-underline-offset: 0.15em;
