@@ -46,6 +46,6 @@ description: I perform research across a variety of areas, including ML, physics
 
 <section aria-labelledby="contact-heading">
   <h2 id="contact-heading">Contact</h2>
-  <p>For collaborations and speaking requests: <a href="mailto:research@example.com">research@example.com</a></p>
-  <p>Additional links: <a href="https://github.com/">GitHub</a> · <a href="https://scholar.google.com/">Google Scholar</a></p>
+  <p>Contact: <a href="mailto:jratchfo.github.emboss026@passmail.com">jratchfo.github.emboss026@passmail.com</a></p>
+  <p>Additional links: <a href="https://github.com/">GitHub</a> · <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=vZOBSvAAAAAJ)">Google Scholar</a></p>
 </section>
