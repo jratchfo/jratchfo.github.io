@@ -1,0 +1,16 @@
+title: Jasmine Ratchford
+description: Research, projects, and ideas spanning machine learning, physics, and engineering.
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
