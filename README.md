@@ -1,22 +1,29 @@
 # jratchfo.github.io
 
-Minimal, sustainable template for a professional scientific GitHub Pages site.
+Jekyll-powered GitHub Pages site for a professional scientific profile.
 
 ## Structure
 
-- `index.html` - profile, research, projects, and contact page
-- `blog.html` - blog page
-- `photos.html` - photo gallery page
-- `styles.css` - muted, accessible color and layout system
+- `_config.yml` - Jekyll and GitHub Pages configuration
+- `_layouts/default.html` - shared document shell, navigation, and metadata
+- `_posts/` - dated Markdown blog posts
+- `assets/css/style.scss` - site styles compiled by Jekyll
+- `index.md`, `blog.md`, and `photos.md` - site pages
 
 ## Customize
 
-1. Replace publication placeholders in `index.html`.
-2. Add blog posts to `blog.html`.
-3. Add images and captions to `photos.html`.
-4. Update project summaries and contact links.
-5. Keep content concise and professional.
+1. Replace publication placeholders and contact links in `index.md`.
+2. Add dated Markdown files to `_posts/` using `YYYY-MM-DD-title.md`.
+3. Add images to `photos/` and update the gallery in `photos.md`.
+4. Update the title and description in `_config.yml`.
 
-## Deployment
+## Local development
 
-This repository is ready for GitHub Pages static hosting.
+Install Ruby and Bundler, then run:
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+GitHub Pages can build the site directly from the repository's default branch.
