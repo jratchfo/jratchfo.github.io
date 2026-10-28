@@ -3,49 +3,42 @@ layout: default
 title: Home
 heading: Research, projects, and ideas
 description: I perform research across a variety of areas, including ML, physics, and engineering.
+photo: /assets/images/profile.svg
+photo_alt: Photo of Jasmine Ratchford
 ---
 
-<section aria-labelledby="focus-heading">
-  <h2 id="focus-heading">Research Focus</h2>
-  <ul>
-    <li>Scientific modeling and simulation</li>
-    <li>Data-driven methods for complex systems</li>
-    <li>Cross-disciplinary translation of methods</li>
-  </ul>
-</section>
+## Research Focus
 
-<section aria-labelledby="publications-heading">
-  <h2 id="publications-heading">Selected Publications</h2>
-  <p>A curated list of representative work. Replace placeholders with links to DOI, arXiv, or publisher pages.</p>
-  <ol>
-    <li>Author, A.; Collaborator, B. <em>Title of Paper</em>. Journal Name, Year.</li>
-    <li>Author, A.; Collaborator, C. <em>Title of Paper</em>. Conference, Year.</li>
-    <li>Author, A. <em>Title of Paper</em>. Journal Name, Year.</li>
-  </ol>
-</section>
+- Scientific modeling and simulation
+- Data-driven methods for complex systems
+- Cross-disciplinary translation of methods
 
-<section aria-labelledby="links-heading">
-  <h2 id="links-heading">Interesting Work &amp; Papers</h2>
-  <p>A place for links to work, papers, tools, and ideas worth sharing.</p>
-  <ul class="link-list">
-    <li><a href="#">Project or paper title</a> <span>— short description.</span></li>
-    <li><a href="#">Interesting resource</a> <span>— why it is useful.</span></li>
-    <li><a href="#">Collaborator or lab</a> <span>— related work.</span></li>
-  </ul>
-</section>
+## Selected Publications
 
-<section aria-labelledby="projects-heading">
-  <h2 id="projects-heading">Current Projects</h2>
-  <p>Currently I'm focused on the following areas of research (ever changing).</p>
-  <ul>
-    <li>Project area one: one-sentence summary.</li>
-    <li>Project area two: one-sentence summary.</li>
-    <li>Project area three: one-sentence summary.</li>
-  </ul>
-</section>
+A curated list of representative work. Replace placeholders with links to DOI, arXiv, or publisher pages.
 
-<section aria-labelledby="contact-heading">
-  <h2 id="contact-heading">Contact</h2>
-  <p>Contact: <a href="mailto:jratchfo.github.emboss026@passmail.com">jratchfo.github.emboss026@passmail.com</a></p>
-  <p>Additional links: <a href="https://github.com/">GitHub</a> · <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=vZOBSvAAAAAJ)">Google Scholar</a></p>
-</section>
+1. Author, A.; Collaborator, B. *Title of Paper*. Journal Name, Year.
+2. Author, A.; Collaborator, C. *Title of Paper*. Conference, Year.
+3. Author, A. *Title of Paper*. Journal Name, Year.
+
+## Interesting Work & Papers
+
+A place for links to work, papers, tools, and ideas worth sharing.
+
+- [Project or paper title](#) — short description.
+- [Interesting resource](#) — why it is useful.
+- [Collaborator or lab](#) — related work.
+
+## Current Projects
+
+Currently I'm focused on the following areas of research (ever changing).
+
+- Project area one: one-sentence summary.
+- Project area two: one-sentence summary.
+- Project area three: one-sentence summary.
+
+## Contact
+
+Email: [jratchfo.github.emboss026@passmail.com](mailto:jratchfo.github.emboss026@passmail.com)
+
+Elsewhere: [GitHub](https://github.com/jratchfo) · [Google Scholar](https://scholar.google.com/citations?user=vZOBSvAAAAAJ)
