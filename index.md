@@ -1,51 +1,47 @@
 ---
 layout: default
 title: Home
-heading: Research, projects, and ideas
-description: I perform research across a variety of areas, including ML, physics, and engineering.
+heading: Hi
+description: I have performed research across a variety of areas, including ML, physics, and engineering.
+photo: /assets/images/linkedin_profile_pic_of_me.jpg 
+photo_alt: Photo of Jasmine Ratchford
 ---
 
-<section aria-labelledby="focus-heading">
-  <h2 id="focus-heading">Research Focus</h2>
-  <ul>
-    <li>Scientific modeling and simulation</li>
-    <li>Data-driven methods for complex systems</li>
-    <li>Cross-disciplinary translation of methods</li>
-  </ul>
-</section>
 
-<section aria-labelledby="publications-heading">
-  <h2 id="publications-heading">Selected Publications</h2>
-  <p>A curated list of representative work. Replace placeholders with links to DOI, arXiv, or publisher pages.</p>
-  <ol>
-    <li>Author, A.; Collaborator, B. <em>Title of Paper</em>. Journal Name, Year.</li>
-    <li>Author, A.; Collaborator, C. <em>Title of Paper</em>. Conference, Year.</li>
-    <li>Author, A. <em>Title of Paper</em>. Journal Name, Year.</li>
-  </ol>
-</section>
+## Thigs I'm Interested In
 
-<section aria-labelledby="links-heading">
-  <h2 id="links-heading">Interesting Work &amp; Papers</h2>
-  <p>A place for links to work, papers, tools, and ideas worth sharing.</p>
-  <ul class="link-list">
-    <li><a href="#">Project or paper title</a> <span>— short description.</span></li>
-    <li><a href="#">Interesting resource</a> <span>— why it is useful.</span></li>
-    <li><a href="#">Collaborator or lab</a> <span>— related work.</span></li>
-  </ul>
-</section>
+Currently I am on a sabbatical. 🙂
 
-<section aria-labelledby="projects-heading">
-  <h2 id="projects-heading">Current Projects</h2>
-  <p>Currently I'm focused on the following areas of research (ever changing).</p>
-  <ul>
-    <li>Project area one: one-sentence summary.</li>
-    <li>Project area two: one-sentence summary.</li>
-    <li>Project area three: one-sentence summary.</li>
-  </ul>
-</section>
+- Submesoscale Ocean Dynamics: Air-sea interactions and flux parameterizations
+- B-splines + Neural Networks: learning compact representations for control
+- Physics-informed machine learning and neural operators
+- (previously) Neutrinos + particles & fields
+- (generally) Atmospheric and oceanic science, the environment, and climate.
 
-<section aria-labelledby="contact-heading">
-  <h2 id="contact-heading">Contact</h2>
-  <p>Contact: <a href="mailto:jratchfo.github.emboss026@passmail.com">jratchfo.github.emboss026@passmail.com</a></p>
-  <p>Additional links: <a href="https://github.com/">GitHub</a> · <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=vZOBSvAAAAAJ)">Google Scholar</a></p>
-</section>
+## Things to think about
+I am in no way involved with any of these things, but find them insightful, interesting, or fun.
+- [The Earth](https://earth.nullschool.net/) - pretty visualizations. 
+- [Being Glue](https://www.noidea.dog/glue) — don't be glue.
+- [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) - Excellent explanations.
+- [MicroGPT (Andrej Karpathy)](https://karpathy.github.io/2026/02/12/microgpt/) - bare bones transformer
+
+## Publications (unsorted)
+- Ratchford, Jasmine, and Raffaele Romagnoli. “[Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals](https://openreview.net/forum?id=zKLMev1mnQ).” Transactions on Machine Learning Research (to appear), 2026. ([video]({{ '/tmlr/' | relative_url }}))
+
+- Gallagher, Shannon K., et al. “Assessing LLMs for High Stakes Applications.” Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice, 2024, pp. 103-05.
+
+- Rallapalli, Swati, et al. “Fine-Tuning LLMs for Report Summarization: Analysis on Supervised and Unsupervised Data.” arXiv, 2025, arXiv:2503.10676.
+
+- Ratchford, Jasmine, Jeremy Redding, and Luis Bravo. “Early Prediction of Inlet Unstart Using Upstream Flow Indicators.” Physics of Fluids, vol. 37, no. 11, 2025. AIP Publishing.
+
+- Romagnoli, Raffaele, Jasmine Ratchford, and Mark H. Klein. “Building Hybrid B-Spline and Neural Network Operators.” 2024 IEEE 63rd Conference on Decision and Control (CDC), IEEE, 2024, pp. 3611-17.
+
+- Shukla, Khemraj, et al. “Deep Operator Learning-Based Surrogate Models for Aerothermodynamic Analysis of AEDC Hypersonic Waverider.” arXiv, 2024, arXiv:2405.13234.
+
+-  Adamson (2011) Measurement of the neutrino mass splitting and flavor mixing by MINOS. Physical review letters. [Online] 106 (18), .
+
+## Contact
+
+Email: [jratchfo.github.emboss026@passmail.com](mailto:jratchfo.github.emboss026@passmail.com)
+
+Elsewhere: [GitHub](https://github.com/jratchfo) · [Google Scholar](https://scholar.google.com/citations?user=vZOBSvAAAAAJ)
