@@ -2,13 +2,13 @@
 ---
 
 :root {
-  --bg: #f3f5f4;
+  --bg: #e8e9ea;
   --surface: #ffffff;
   --text: #253036;
   --muted: #5d6970;
   --primary: #3f5f68;
   --accent: #6f7e5f;
-  --border: #d5dcd9;
+  --border: #d3d5d7;
   --max-width: 46rem;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 .site-header {
-  background: linear-gradient(180deg, #e9efed 0%, var(--bg) 100%);
+  background: linear-gradient(180deg, #dcdee0 0%, var(--bg) 100%);
   border-bottom: 1px solid var(--border);
 }
 
@@ -171,12 +171,19 @@ li + li {
 
 .photo-placeholder > div {
   align-items: center;
-  background: #e9efed;
+  background: #eceded;
   border: 1px dashed var(--border);
   color: var(--muted);
   display: flex;
   justify-content: center;
   min-height: 8rem;
+}
+
+video {
+  border-radius: 0.4rem;
+  display: block;
+  margin-top: 0.75rem;
+  max-width: 100%;
 }
 
 figcaption {
@@ -186,7 +193,7 @@ figcaption {
 }
 
 code {
-  background: #e9efed;
+  background: #eceded;
   border-radius: 0.2rem;
   padding: 0.1rem 0.25rem;
 }
