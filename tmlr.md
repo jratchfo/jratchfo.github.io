@@ -8,10 +8,9 @@ permalink: /tmlr/
 ## Video
 
 <!-- Markdown has no video syntax, so this part stays HTML. -->
-<video controls preload="metadata" playsinline>
-  <source src="{{ '/tmlr.mp4' | relative_url }}" type="video/mp4">
-  Your browser can't play this video. <a href="{{ '/tmlr.mp4' | relative_url }}">Download it instead.</a>
-</video>
+<iframe class="video-embed" src="https://www.youtube-nocookie.com/embed/bjBo2bwbaxM" title="TMLR paper video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=bjBo2bwbaxM)
 
 ## Publication
 
