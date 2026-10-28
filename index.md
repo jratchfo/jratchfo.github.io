@@ -4,26 +4,31 @@ title: Home
 heading: Hi
 description: I have performed research across a variety of areas, including ML, physics, and engineering.
 photo: /assets/images/linkedin_profile_pic_of_me.jpg 
-photo_alt: Photo of Jasmine Ratchford
+photo_alt: meee
 ---
 
 
-## Thigs I'm Interested In
+
+## Things I'm Interested In
 
 Currently I am on a sabbatical. 🙂
 
-- Submesoscale Ocean Dynamics: Air-sea interactions and flux parameterizations
-- B-splines + Neural Networks: learning compact representations for control
-- Physics-informed machine learning and neural operators
-- (previously) Neutrinos + particles & fields
+- Sub-mesoscale Ocean Dynamics: Air-sea interactions and flux parameterizations.
+- B-splines + Neural Networks: learning compact representations for control.
+- Physics-informed machine learning and neural operators.
+- (previously) Neutrinos + particles & fields.
 - (generally) Atmospheric and oceanic science, the environment, and climate.
+
+  
 
 ## Things to think about
 I am in no way involved with any of these things, but find them insightful, interesting, or fun.
 - [The Earth](https://earth.nullschool.net/) - pretty visualizations. 
 - [Being Glue](https://www.noidea.dog/glue) — don't be glue.
 - [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) - Excellent explanations.
-- [MicroGPT (Andrej Karpathy)](https://karpathy.github.io/2026/02/12/microgpt/) - bare bones transformer
+- [MicroGPT (Andrej Karpathy)](https://karpathy.github.io/2026/02/12/microgpt/) - bare bones transformer.
+
+  
 
 ## Publications (unsorted)
 - Ratchford, Jasmine, and Raffaele Romagnoli. “[Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals](https://openreview.net/forum?id=zKLMev1mnQ).” Transactions on Machine Learning Research (to appear), 2026. ([video]({{ '/tmlr/' | relative_url }}))
