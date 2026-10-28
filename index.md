@@ -1,41 +1,44 @@
 ---
 layout: default
 title: Home
-heading: Research, projects, and ideas
-description: I perform research across a variety of areas, including ML, physics, and engineering.
-photo: /assets/images/profile.svg
+heading: Hi
+description: I have performed research across a variety of areas, including ML, physics, and engineering.
+photo: /assets/images/linkedin_profile_pic_of_me.jpg 
 photo_alt: Photo of Jasmine Ratchford
 ---
 
-## Research Focus
 
-- Scientific modeling and simulation
-- Data-driven methods for complex systems
-- Cross-disciplinary translation of methods
+## Thigs I'm Interested In
 
-## Selected Publications
+Currently I am on a sabbatical. 🙂
 
-A curated list of representative work. Replace placeholders with links to DOI, arXiv, or publisher pages.
+- Submesoscale Ocean Dynamics: Air-sea interactions and flux parameterizations
+- B-splines + Neural Networks: learning compact representations for control
+- Physics-informed machine learning and neural operators
+- (previously) Neutrinos + particles & fields
+- (generally) Atmospheric and oceanic science, the environment, and climate.
 
-1. Author, A.; Collaborator, B. *Title of Paper*. Journal Name, Year.
-2. Author, A.; Collaborator, C. *Title of Paper*. Conference, Year.
-3. Author, A. *Title of Paper*. Journal Name, Year.
+## Things to think about
+I am in no way involved with any of these things, but find them insightful, interesting, or fun.
+- [The Earth](https://earth.nullschool.net/) - pretty visualizations. 
+- [Being Glue](https://www.noidea.dog/glue) — don't be glue.
+- [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) - Excellent explanations.
+- [MicroGPT (Andrej Karpathy)](https://karpathy.github.io/2026/02/12/microgpt/) - bare bones transformer
 
-## Interesting Work & Papers
+## Publications (unsorted)
+- Ratchford, Jasmine, and Raffaele Romagnoli. “[Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals](https://openreview.net/forum?id=zKLMev1mnQ).” Transactions on Machine Learning Research (to appear), 2026. ([video]({{ '/tmlr/' | relative_url }}))
 
-A place for links to work, papers, tools, and ideas worth sharing.
+- Gallagher, Shannon K., et al. “Assessing LLMs for High Stakes Applications.” Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice, 2024, pp. 103-05.
 
-- [Project or paper title](#) — short description.
-- [Interesting resource](#) — why it is useful.
-- [Collaborator or lab](#) — related work.
+- Rallapalli, Swati, et al. “Fine-Tuning LLMs for Report Summarization: Analysis on Supervised and Unsupervised Data.” arXiv, 2025, arXiv:2503.10676.
 
-## Current Projects
+- Ratchford, Jasmine, Jeremy Redding, and Luis Bravo. “Early Prediction of Inlet Unstart Using Upstream Flow Indicators.” Physics of Fluids, vol. 37, no. 11, 2025. AIP Publishing.
 
-Currently I'm focused on the following areas of research (ever changing).
+- Romagnoli, Raffaele, Jasmine Ratchford, and Mark H. Klein. “Building Hybrid B-Spline and Neural Network Operators.” 2024 IEEE 63rd Conference on Decision and Control (CDC), IEEE, 2024, pp. 3611-17.
 
-- Project area one: one-sentence summary.
-- Project area two: one-sentence summary.
-- Project area three: one-sentence summary.
+- Shukla, Khemraj, et al. “Deep Operator Learning-Based Surrogate Models for Aerothermodynamic Analysis of AEDC Hypersonic Waverider.” arXiv, 2024, arXiv:2405.13234.
+
+-  Adamson (2011) Measurement of the neutrino mass splitting and flavor mixing by MINOS. Physical review letters. [Online] 106 (18), .
 
 ## Contact
 
