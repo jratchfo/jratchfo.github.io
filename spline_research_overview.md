@@ -95,7 +95,7 @@ J. Ratchford, R. Romagnoli, and M. H. Klein, "A Neural Network Approach towards 
 
 ---
 
-▶ [Watch the video overview](https://youtu.be/bjBo2bwbaxM) · [TMLR paper page](tmlr) · [Code](https://github.com/cmu-sei/bspline_net)
+▶ [Watch the video overview](https://youtu.be/bjBo2bwbaxM) · [TMLR Video](tmlr) · [Code](https://github.com/cmu-sei/bspline_net)
 
 ---
 ## Get in touch
