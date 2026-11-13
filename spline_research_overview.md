@@ -2,9 +2,7 @@
 title: "Fast, Calibrated Trajectory Prediction with Splines"
 ---
 
-# Fast, Calibrated Trajectory Prediction with Splines
-
-**Jasmine Ratchford** · with Raffaele Romagnoli (Duquesne University) and Mark H. Klein (CMU Software Engineering Institute)
+Jasmine Ratchford, Raffaele Romagnoli (Duquesne University), and Mark H. Klein (CMU Software Engineering Institute)
 This page gives a bit more context on the work: two companion papers on predicting where an autonomous system will go, with calibrated uncertainty, fast enough for an onboard computer.
 
 ---
