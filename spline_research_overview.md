@@ -6,7 +6,7 @@ Jasmine Ratchford, Raffaele Romagnoli (Duquesne University), and Mark H. Klein (
 This page gives a bit more context on the work: two companion papers on predicting where an autonomous system will go, with calibrated uncertainty, fast enough for an onboard computer.
 
 <p align="center">
-  <img src="{{ '/assets/img/spline_overview.png' | relative_url }}" alt="Pipeline overview" width="600">
+  <img src="{{ '/assets/knot_placement_comparison.png}}" alt="Pipeline overview" width="600">
 </p>
 
 ---
