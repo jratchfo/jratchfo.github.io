@@ -7,9 +7,6 @@ title: "Fast, Calibrated Trajectory Prediction with Splines"
 **Jasmine Ratchford** · with Raffaele Romagnoli (Duquesne University) and Mark H. Klein (CMU Software Engineering Institute)
 This page gives a bit more context on the work in my talk: two companion papers on predicting where an autonomous system will go, with calibrated uncertainty, fast enough for an onboard computer.
 
-[![TMLR video overview](https://img.youtube.com/vi/bjBo2bwbaxM/hqdefault.jpg)](https://youtu.be/bjBo2bwbaxM)
-
-
 ---
 
 ## The two papers in one sentence each
@@ -69,7 +66,37 @@ These are directions we're excited about. If any of them overlap with your work,
 7. **Learned vs. physics-based knots.** When is uneven knot placement worth it? Trajectories whose complexity is spread evenly gain less, so can we predict ahead of time which strategy to use?
 
 ---
+
+## How to cite
+
+J. Ratchford and R. Romagnoli, "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals," *Transactions on Machine Learning Research*, 2026. [OpenReview](https://openreview.net/forum?id=zKLMev1mnQ)
+
+J. Ratchford, R. Romagnoli, and M. H. Klein, "A Neural Network Approach towards Real-Time Knot Point Density Estimates for the Nonlinear Quadrotor," to appear in *IEEE Conference on Decision and Control (CDC)*, 2026. [arXiv:2610.42027](https://arxiv.org/abs/2610.42027)
+
+```bibtex
+@article{ratchford2026spectral,
+  title   = {Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals},
+  author  = {Ratchford, Jasmine and Romagnoli, Raffaele},
+  journal = {Transactions on Machine Learning Research},
+  year    = {2026},
+  month.  = October,
+  url     = {https://openreview.net/forum?id=zKLMev1mnQ}
+}
+
+@inproceedings{ratchford2026knot,
+  title     = {A Neural Network Approach towards Real-Time Knot Point Density Estimates for the Nonlinear Quadrotor},
+  author    = {Ratchford, Jasmine and Romagnoli, Raffaele and Klein, Mark H.},
+  booktitle = {IEEE Conference on Decision and Control (CDC)},
+  year      = {2026},
+  month.    = December,
+  note      = {To appear. arXiv:2610.42027}
+}
+```
+
+---
+
 ▶ [Watch the video overview](https://youtu.be/bjBo2bwbaxM) · [TMLR paper page](tmlr) · [Code](https://github.com/cmu-sei/bspline_net)
+
 ---
 ## Get in touch
 
