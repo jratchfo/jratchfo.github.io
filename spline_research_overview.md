@@ -73,13 +73,19 @@ J. Ratchford and R. Romagnoli, "Spectral and Conformal: Neural Network Methods f
 
 J. Ratchford, R. Romagnoli, and M. H. Klein, "A Neural Network Approach towards Real-Time Knot Point Density Estimates for the Nonlinear Quadrotor," to appear in *IEEE Conference on Decision and Control (CDC)*, 2026. [arXiv:2610.42027](https://arxiv.org/abs/2610.42027)
 
+<style>
+  .bibtex pre, .bibtex code { white-space: pre-wrap; word-break: break-word; font-size: 0.8em; }
+</style>
+
+<details class="bibtex" markdown="1">
+<summary><strong>BibTeX</strong> (click to expand)</summary>
 ```bibtex
 @article{ratchford2026spectral,
   title   = {Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals},
   author  = {Ratchford, Jasmine and Romagnoli, Raffaele},
   journal = {Transactions on Machine Learning Research},
   year    = {2026},
-  month.  = October,
+  month   = October,
   url     = {https://openreview.net/forum?id=zKLMev1mnQ}
 }
 
@@ -88,7 +94,7 @@ J. Ratchford, R. Romagnoli, and M. H. Klein, "A Neural Network Approach towards 
   author    = {Ratchford, Jasmine and Romagnoli, Raffaele and Klein, Mark H.},
   booktitle = {IEEE Conference on Decision and Control (CDC)},
   year      = {2026},
-  month.    = December,
+  month     = December,
   note      = {To appear. arXiv:2610.42027}
 }
 ```
